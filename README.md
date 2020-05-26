@@ -1,6 +1,6 @@
-# movieCatalogServer
+# Movie Catalog Server
 
-Its Discovery Server
+#Its Discovery Server
 
 Other 3 Service register with this service.
 
