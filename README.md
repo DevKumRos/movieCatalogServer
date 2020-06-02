@@ -11,3 +11,9 @@ Other 3 Service register with this service.
   
   To access application URL:
   http://localhost:9000/catalog/500
+  
+  Eureka Access point for running instance
+  http://localhost:8761/
+
+Hystrix Cricuit Breaker information
+http://localhost:9000/actuator/hystrix.stream
